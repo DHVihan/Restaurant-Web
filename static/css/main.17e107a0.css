@@ -1,0 +1,2 @@
+.glow{-webkit-animation:flicker 1.5s infinite alternate;animation:flicker 1.5s infinite alternate}@-webkit-keyframes flicker{0%,18%,22%,25%,53%,57%,to{text-shadow:0 0 7px #fff,0 0 10px #fff,0 0 21px #fff,0 0 42px #d900ff,0 0 82px #f385ff,0 0 92px #fca4ff,0 0 102px #ff5ec9,0 0 151px #ff00ea}20%,24%,55%{text-shadow:none}}@keyframes flicker{0%,18%,22%,25%,53%,57%,to{text-shadow:0 0 7px #fff,0 0 10px #fff,0 0 21px #fff,0 0 42px #d900ff,0 0 82px #f385ff,0 0 92px #fca4ff,0 0 102px #ff5ec9,0 0 151px #ff00ea}20%,24%,55%{text-shadow:none}}
+/*# sourceMappingURL=main.17e107a0.css.map*/
